@@ -1,3 +1,5 @@
+<img width="1894" height="911" alt="Zrzut ekranu 2026-10-15 110254" src="https://github.com/user-attachments/assets/642ffd3d-febe-4dc2-903e-fb039a8df825" />
+
 ## 🔥 Project Name - Engineering
 
 ## 📚 Key Features
