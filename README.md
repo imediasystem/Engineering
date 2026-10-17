@@ -2,6 +2,8 @@
 
 ## 🔥 Project Name - Engineering
 
+I design modern, fast, and fully responsive websites tailored specifically for the industrial and engineering sectors. Combining a technical mindset with clean design, I build a professional online presence for your business—from pipeline installation to NDT testing. Get a high-converting portfolio that sets you apart from the competition and attracts new B2B clients.
+
 [![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://krzysztofgraca.eu/)
 
 ## 📚 Key Features
